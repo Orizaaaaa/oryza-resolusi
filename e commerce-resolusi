@@ -1,4 +1,4 @@
-e commerce resolusi
+E-COMMERCE RESOLUSI
 - desain menggunakan template di figma 
 - kemudian membuat banner di freefik jika ingin ada yang di ubah gunakan potoshop
 - pake framework bootsrap 
@@ -17,6 +17,30 @@ e commerce resolusi
 
 
 
-TARGET
-- target bisa menguasai javascript, react js, async js, node js, dom js,
-  vue js, api js, fetch js, vanilla js, mongo db, php, java, tailwind,
+ROADMAP JAVASCRIPT
+
+1.	javascript Dasar
+2.	Javascript DOM (setelah ini latihan membuat to do list sederhana)
+3.	Javascript OOP
+4.	javascript modules
+5.	Javascript standart liblary
+6.	javascript async
+7.	javascript fetch API
+8.	Tailwind
+9.	SASS
+
+10.	Vue js  
+MVC dalam Vue.js sedikit berbeda dibandingkan pemahaman tentang MVC dalam aplikasi back-end. Dalam Vue.js, 
+"Controller" digantikan dengan "Component", yang memiliki tugas yang sama, yaitu menangani interaksi antara model dan view.
+
+11.	 Node js
+Node js bukan lah sebuah framework atau library, node js adalah sebuah runtime 
+environtment yang menjalankan kode javascript di server side
+
+12.	 Express.js
+Express.js adalah framework back-end untuk aplikasi web yang ditulis menggunakan 
+bahasa JavaScript dan berjalan di atas Node.js. 
+Express.js sangat fleksibel dan bisa digunakan untuk membangun aplikasi web skala kecil hingga besar. 
+Express.js juga bisa digabungkan dengan beragam library dan framework lain seperti Vue.js, React, dan Angular untuk membangun aplikasi full-stack.
+
+13.	 Mongo DB
