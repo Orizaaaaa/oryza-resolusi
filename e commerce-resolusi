@@ -28,16 +28,17 @@ ROADMAP JAVASCRIPT
 7.	javascript fetch API
 8.	Tailwind
 9.	SASS
+10. react js
 
-10.	Vue js  
+11.	Vue js  
 MVC dalam Vue.js sedikit berbeda dibandingkan pemahaman tentang MVC dalam aplikasi back-end. Dalam Vue.js, 
 "Controller" digantikan dengan "Component", yang memiliki tugas yang sama, yaitu menangani interaksi antara model dan view.
 
-11.	 Node js
+12.	 Node js
 Node js bukan lah sebuah framework atau library, node js adalah sebuah runtime 
 environtment yang menjalankan kode javascript di server side
 
-12.	 Express.js
+13.	 Express.js
 Express.js adalah framework back-end untuk aplikasi web yang ditulis menggunakan 
 bahasa JavaScript dan berjalan di atas Node.js. 
 Express.js sangat fleksibel dan bisa digunakan untuk membangun aplikasi web skala kecil hingga besar. 
