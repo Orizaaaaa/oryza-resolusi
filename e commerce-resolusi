@@ -4,46 +4,75 @@ E-COMMERCE RESOLUSI
 - pake framework bootsrap 
 - pake framework w3school
 - pake framework tailwind
-- buat animasi bergerak dengan lottiefiles
 - gunakan laravel
 - gunakan payment gateway
 - gunakan chat user dan admin secara realtime
--uiverse.io untuk element website bergerak
--buat background di animated background dan loading.io
--icon di user animaton
--menggunakan vue js, react js, nuxt 3
--tailbits.com untuk lihat project tailwind
--cari referensi di figma comunity
--referensi box shadow https://getcssscan.com/css-box-shadow-examples
+- menggunakan react js, nuxt, Eksprees, Node js
+- hosting di netify karena gratis dan bisa memakai database
+
+
+
+
+
+
+
+ALAT BANTU CODING ATAU REFERENSI
+- uiverse.io untuk element website bergerak
+- referensi box shadow https://getcssscan.com/css-box-shadow-examples
+- cari referensi di figma comunity
+- tailbits.com untuk lihat project tailwind
+- icon di user animaton
+- buat background di animated background dan loading.io
+- buat animasi bergerak dengan lottiefiles
+- https://codedesign.dev/ (beberapa design figma yang sudah jadi)
+
 
 
 
 ROADMAP JAVASCRIPT
 
-1.	javascript Dasar
-2.	Javascript DOM (setelah ini latihan membuat to do list sederhana)
-3.	Javascript OOP
-4.	javascript modules
-5.	Javascript standart liblary
-6.	javascript async
-7.	javascript fetch API
-8.	Tailwind
-9.	SASS
-10. react js
+1.	javascript Dasar ( pzn )
+2.	Javascript DOM (wpu)
+    (membuat input dan output Javascript esofgreat)
+    (latihan bikin project menu buka puasa GuruPembelajar)
 
-11.	Vue js  
-MVC dalam Vue.js sedikit berbeda dibandingkan pemahaman tentang MVC dalam aplikasi back-end. Dalam Vue.js, 
-"Controller" digantikan dengan "Component", yang memiliki tugas yang sama, yaitu menangani interaksi antara model dan view.
 
-12.	 Node js
-Node js bukan lah sebuah framework atau library, node js adalah sebuah runtime 
-environtment yang menjalankan kode javascript di server side
+3.	Javascript lanjutan (wpu)
+4.	Javascript OOP ( pzn )
+5.	Javascript Ajax 
+6.	javascript modules ( pzn )
+7.	Javascript standart liblary ( pzn )
+8.	javascript async ( pzn 3 thn yang lalu  )
+9.	javascript fetch API
+    ( latihan bikin API kondisi cuaca paradevs)
 
-13.	 Express.js
-Express.js adalah framework back-end untuk aplikasi web yang ditulis menggunakan 
-bahasa JavaScript dan berjalan di atas Node.js. 
-Express.js sangat fleksibel dan bisa digunakan untuk membangun aplikasi web skala kecil hingga besar. 
-Express.js juga bisa digabungkan dengan beragam library dan framework lain seperti Vue.js, React, dan Angular untuk membangun aplikasi full-stack.
+10.	 Belajar ajax dan json
+11.	 SASS  ( wpu )
+12.	 Tailwind ( wpu )
 
-13.	 Mongo DB
-14.  hosting di netify karena gratis dan bisa memakai database
+13.	Jquery (code politan)
+
+jQuery adalah sebuah library JavaScript yang digunakan untuk mempermudah manipulasi elemen HTML, animasi, dan penanganan event pada halaman web.
+Fungsi utama dari jQuery adalah mempermudah pembuatan script JavaScript pada halaman web dengan menyediakan berbagai fungsi dan metode yang dapat 
+digunakan untuk memanipulasi elemen HTML.
+
+14.	 React js
+
+15.	 Node js ( wpu )
+Node js bukan lah sebuah framework atau library, node js adalah sebuah runtime environtment yang menjalankan kode javascript di server side
+
+16.	 Express.js (wpu)
+Express.js adalah framework back-end untuk aplikasi web yang ditulis menggunakan bahasa JavaScript dan berjalan di atas Node.js. 
+Express.js sangat fleksibel dan bisa digunakan untuk membangun aplikasi web skala kecil hingga besar. Express.js juga bisa digabungkan
+dengan beragam library dan framework lain seperti Vue.js, React, dan Angular untuk membangun aplikasi full-stack.
+
+17.	 Mongo DB
+
+18.	Vue js  ( balademy ) 
+MVC dalam Vue.js sedikit berbeda dibandingkan pemahaman tentang MVC dalam aplikasi back-end. Dalam Vue.js
+, "Controller" digantikan dengan "Component", yang memiliki tugas yang sama, yaitu menangani interaksi antara model dan view.
+
+
+
+
+
