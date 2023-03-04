@@ -28,7 +28,9 @@ ALAT BANTU CODING ATAU REFERENSI
 - icon cari font awesome javascript ( untuk mengakses nya gunakan cdn js )
 - three.js : animasi (sketchfab untuk 3d udh jadi)
 - gsap.js : animasi
-- aos.js : animasi card 
+- aos.js : animasi scroll
+- animate css : animasi refresh
+
 - tilt js : animasi
 
 
